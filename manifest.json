@@ -1,0 +1,25 @@
+{
+  "name": "Gulel Hit Challenge",
+  "short_name": "Gulel Hit",
+  "description": "3D Gulel Waste Thrower — hit the running character and score points.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "assets/gulel.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/gulel.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
